@@ -51,16 +51,16 @@ This Java program accepts an array from the user, prints its elements, and then 
 ## **Example Output**
 
 ### **Input:**
-Enter Array Size.. 
-5 
-Enter Elements One by One 
-1 2 3 4 5
+- Enter Array Size.. 
+- 5 
+- Enter Elements One by One 
+- 1 2 3 4 5
 
 ### **Output:**
-Array Elements: 
-[1, 2, 3, 4, 5] 
-Elements in Reverse Order... 
-5 4 3 2 1
+- Array Elements: 
+- [1, 2, 3, 4, 5] 
+- Elements in Reverse Order... 
+- 5 4 3 2 1
 
 ## Clone
 ```
